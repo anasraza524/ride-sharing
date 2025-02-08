@@ -1,0 +1,20 @@
+{"level":"info","timestamp":"2025-02-09T02:22:37+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:29:56+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:36:09+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:44:03+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:50:08+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:51:40+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:55:02+05:00","message":"New connection: OZQ0z93gImEmXea6AAAb","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:55:09+05:00","message":"Connection closed: OZQ0z93gImEmXea6AAAb","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:55:10+05:00","message":"New connection: pf2fiEWfZUWv9a_uAAAe","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T02:56:28+05:00","message":"Connection closed: pf2fiEWfZUWv9a_uAAAe","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:00:49+05:00","message":"New connection: sZZgKDshIeyAMZwLAAAx","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:01:32+05:00","message":"New connection: ji396NZ73n2_GyiRAAA0","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:01:33+05:00","message":"Connection closed: ji396NZ73n2_GyiRAAA0","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:01:33+05:00","message":"Connection closed: sZZgKDshIeyAMZwLAAAx","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:01:34+05:00","message":"New connection: lrjEd96WT8VaCEQoAAA3","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:02:59+05:00","message":"New connection: FgK0R07zS_2ttz9QAABA","meta":{"service":"ride-sharing-api"}}
+{"level":"error","timestamp":"2025-02-09T03:05:14+05:00","message":"Location update failed: Invalid driver data format","meta":{"service":"ride-sharing-api"}}
+{"level":"error","timestamp":"2025-02-09T03:05:42+05:00","message":"Nearby drivers query error: Invalid client coordinates","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:07:48+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
+{"level":"info","timestamp":"2025-02-09T03:22:40+05:00","message":"Server running on port 5000","meta":{"service":"ride-sharing-api"}}
