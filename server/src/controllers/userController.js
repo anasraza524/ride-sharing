@@ -6,7 +6,7 @@ import bcrypt from 'bcryptjs';
 export const registerUser = async (req, res) => {
   try {
     const { name, email, password } = req.body;
-
+console.log("name, email, password",name, email, password)
     let user = await User.findOne({ email });
     if (user) {
       return res.status(400).json({ message: "User already exists" });
@@ -20,9 +20,9 @@ export const registerUser = async (req, res) => {
       password: hashedPassword
     });
     await user.save();
-    const token = jwt.sign({ id: user._id }, config.JWT_SECRET, { expiresIn: '1d' });
+    // const token = jwt.sign({ id: user._id }, config.JWT_SECRET, { expiresIn: '1d' });
 
-    res.status(201).json({ message: "User registered", token });
+    res.status(201).json({ message: "User registered" });
   } catch (error) {
     res.status(500).json({ message: "Error registering user", error: error.message });
   }
